@@ -1,2 +1,2 @@
 # shekoska_test
-u2
+u1 & u2
